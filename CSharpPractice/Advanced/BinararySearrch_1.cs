@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpPractice.Advanced
 {
+    /* Binary Search Problems*/
     public static class BinararySearrch_1
     {
         public static int solve(List<int> A)
